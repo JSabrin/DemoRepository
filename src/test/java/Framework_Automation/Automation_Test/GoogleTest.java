@@ -62,6 +62,11 @@ public class GoogleTest {
 //	public void googleSearch() {
 //		driver.findElement(By.xpath("))
 //	}
+	@Test(priority=6)
+	public void titleLogoTest() {
+		System.out.println("Logo Title Test");
+	}
+	
 	@Test(priority=3)
 	public void googleLogoTest() {
 		System.out.println("Test Google Logo");
