@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27558" started-at="2018-05-04T06:27:19Z" finished-at="2018-05-04T06:27:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27558" started-at="2018-05-04T06:27:19Z" finished-at="2018-05-04T06:27:46Z">
+      <class name="Framework_Automation.Automation_Test.GoogleTest">
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:Framework_Automation.Automation_Test.GoogleTest@670b40af]" name="launchApplication" is-config="true" duration-ms="6791" started-at="2018-05-04T01:27:19Z" finished-at="2018-05-04T01:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="googleSearch()[pri:2, instance:Framework_Automation.Automation_Test.GoogleTest@670b40af]" name="googleSearch" duration-ms="9" started-at="2018-05-04T01:27:26Z" finished-at="2018-05-04T01:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Framework_Automation.Automation_Test.GoogleTest@670b40af]" name="tearDown" is-config="true" duration-ms="1011" started-at="2018-05-04T01:27:26Z" finished-at="2018-05-04T01:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:Framework_Automation.Automation_Test.GoogleTest@670b40af]" name="launchApplication" is-config="true" duration-ms="5115" started-at="2018-05-04T01:27:27Z" finished-at="2018-05-04T01:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="googleLogoTest()[pri:3, instance:Framework_Automation.Automation_Test.GoogleTest@670b40af]" name="googleLogoTest" duration-ms="2" started-at="2018-05-04T01:27:32Z" finished-at="2018-05-04T01:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Framework_Automation.Automation_Test.GoogleTest@670b40af]" name="tearDown" is-config="true" duration-ms="2626" started-at="2018-05-04T01:27:32Z" finished-at="2018-05-04T01:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:Framework_Automation.Automation_Test.GoogleTest@670b40af]" name="launchApplication" is-config="true" duration-ms="5182" started-at="2018-05-04T01:27:34Z" finished-at="2018-05-04T01:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="logout()[pri:3, instance:Framework_Automation.Automation_Test.GoogleTest@670b40af]" name="logout" duration-ms="1" started-at="2018-05-04T01:27:40Z" finished-at="2018-05-04T01:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Framework_Automation.Automation_Test.GoogleTest@670b40af]" name="tearDown" is-config="true" duration-ms="1015" started-at="2018-05-04T01:27:40Z" finished-at="2018-05-04T01:27:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:Framework_Automation.Automation_Test.GoogleTest@670b40af]" name="launchApplication" is-config="true" duration-ms="4928" started-at="2018-05-04T01:27:41Z" finished-at="2018-05-04T01:27:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="logIn()[pri:4, instance:Framework_Automation.Automation_Test.GoogleTest@670b40af]" name="logIn" duration-ms="2" started-at="2018-05-04T01:27:45Z" finished-at="2018-05-04T01:27:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Framework_Automation.Automation_Test.GoogleTest@670b40af]" name="tearDown" is-config="true" duration-ms="846" started-at="2018-05-04T01:27:45Z" finished-at="2018-05-04T01:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Framework_Automation.Automation_Test.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
