@@ -7,4 +7,7 @@ public class SearchTest {
     public void searchPage() {
     	System.out.println("SearchPage");
     }
+    public void submitPage() {
+    	System.out.println("Submit Page");
+    }
 }
